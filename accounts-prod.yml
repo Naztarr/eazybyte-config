@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to NaztarBank accounts related prod APIs"
   contactDetails:
     name: "Naztar Ezemmuo - Product Owner"
-    email: "hemachael18@gmail.com"
+    email: "{cypher}e43fa8d840ed7c7f6fec69b384e1426f9d587dfb4736efa8694662c4dfdd1878c5aed5ec60a6fd16654e05f37839fd6a
+"
   onCallSupport:
     -(666)536-3436
     -(666)453-6545
