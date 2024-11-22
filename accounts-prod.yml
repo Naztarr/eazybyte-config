@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to NaztarBank accounts related production APIs"
+  message: "Welcome to NaztarBank accounts related prod APIs"
   contactDetails:
     name: "Naztar Ezemmuo - Product Owner"
     email: "{cipher}e43fa8d840ed7c7f6fec69b384e1426f9d587dfb4736efa8694662c4dfdd1878c5aed5ec60a6fd16654e05f37839fd6a"
