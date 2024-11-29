@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to NaztarBank accounts related local APIs"
+  message: "Welcome to NaztarBank accounts related docker APIs"
   contactDetails:
     name: "Chinaza Herbert - Developer"
     email: "herbertemmanuel116@gmail.com"
